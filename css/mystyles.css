@@ -34,7 +34,7 @@ body{
     z-index:0;
 }
 
-.navbar-inverse {
+/*.navbar-inverse {
      background: #303F9F;
 }
 
@@ -60,4 +60,4 @@ body{
 
 .navbar-inverse .navbar-nav .open .dropdown-menu> li> a:hover {
     color:#000000;
-}
+}*/
